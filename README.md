@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tech Elevator Prework
+- 🔭 I’m currently working on Tech Elevator Prework.
 - 🌱 I’m currently learning Software develpment
 - 👯 I’m looking to collaborate on Student projects
 - 🤔 I’m looking for help with learning Javascript
